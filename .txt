@@ -1,0 +1,3 @@
+Es un grupo de sentencias (instrucciones) a las que se le da un nombre identificativo que realiza una tarea en concreto
+¿Que es un método?
+
